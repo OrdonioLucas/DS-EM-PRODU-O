@@ -1,2 +1,2 @@
-# Curso de Git
-Este repositório foi criado para hospedar o esqueleto do projeto que será utilizado para explicar e ensinar o uso básico do Git dentro da Comunidade DS
+# Curso DS EM PRODUÇÃO
+Este repositório foi criado para o projeto do curso ds em produção
